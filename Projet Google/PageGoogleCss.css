@@ -1,0 +1,50 @@
+body
+{
+	width: 100%;
+	text-align: center;
+}
+header
+{
+	display:flex;
+	justify-content: flex-end;
+	padding-left: 20px;
+	padding-right: 30px;
+}
+p
+{
+	color: red;
+}
+.main
+{
+ height: 40px;
+ width: 40px;
+}
+input
+{
+	border:0.5px silver solid;
+	border-radius: 20px;
+	width: 42%;
+	height: 42px;
+	box-shadow: 2px 2px 3px silver;
+	margin: 25px 40px;
+}
+#Connexion
+{
+	background-color: blue;
+	color: #FFFFFF;
+}
+
+.footleft
+{
+	display:flex;
+	justify-content: space-between;
+}
+.footright
+{
+	display:flex;
+	justify-content: flex-start;	
+}
+.Logo
+{
+    margin-top: 8%;
+}
